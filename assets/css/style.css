@@ -1,0 +1,25 @@
+.bg-bleu {
+  background: black;
+}
+
+main {
+  min-height: 100vh;
+}
+
+article{height: 500px;
+padding: 5vh 0;}
+
+.format{width: 60%;
+margin: auto;
+}
+
+.fa-facebook-square,
+.fa-tiktok{font-size: 20px;}
+
+.fa-facebook-square{color: #3b5998;}
+
+.fa-tiktok{color: #ee1d52;}
+
+
+
+
